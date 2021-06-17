@@ -4,10 +4,10 @@
     "display": "standalone",
     "orientation": "portrait",
     "scope": "/",
-    "start_url": "/",
+    "start_url": "./index.html",
     "name": "gold",
     "short_name": "gold",
-    "description": "index.html",
+    "description": "golden app",
     "icons": [
         {
             "src": "icon-192x192.png",
