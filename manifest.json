@@ -4,7 +4,6 @@
     "display": "standalone",
     "orientation": "portrait",
     "start_url": "./index.html",
-    "scope": "/",
     "name": "gold",
     "short_name": "gold",
     "description": "golden app",
